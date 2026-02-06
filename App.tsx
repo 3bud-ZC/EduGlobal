@@ -2,7 +2,7 @@
 import React from 'react';
 import { HashRouter as Router, Routes, Route, Navigate, useNavigate } from 'react-router-dom';
 import { AppProvider, useApp } from './context/AppContext';
-import Navbar from './components/Navbar';
+import Navbar from "./components/Navbar";
 import HomePage from './pages/HomePage';
 import ScholarshipListing from './pages/ScholarshipListing';
 import ScholarshipDetail from './pages/ScholarshipDetail';
