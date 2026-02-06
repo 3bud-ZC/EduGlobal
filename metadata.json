@@ -1,0 +1,7 @@
+{
+  "name": "EduGlobal - Premium Scholarship Hub",
+  "description": "A high-performance, multilingual platform for global scholarships and study abroad programs, featuring AI-powered matching and comprehensive management tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
