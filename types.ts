@@ -1,8 +1,8 @@
 
 export enum Role {
-  STUDENT = 'STUDENT',
-  ADMIN = 'ADMIN',
-  GUEST = 'GUEST'
+  GUEST = "guest",
+  STUDENT = "student",
+  ADMIN = "admin",
 }
 
 export enum Language {
